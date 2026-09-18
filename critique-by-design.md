@@ -1,7 +1,8 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here...
+# Designing & Redesigning: Critique by Design Assignment
+
+_For our assignment this week, we participated in '[MakeoverMonday](https://makeovermonday.vercel.app/)', an online community project that gives participants the opportunity to "create better, more effective visualizations and help...make information more accessible." For the purposes of this assignment, I chose to rework a visualization of '[U.S. Data Center Locations](https://makeovermonday.vercel.app/dataset/us-data-center-locations)' (pictured below).
 
 _For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
 
