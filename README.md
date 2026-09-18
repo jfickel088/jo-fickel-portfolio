@@ -27,8 +27,8 @@ You can keep this section for stuff from in-class demos or your other work, or r
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+## Assignment 3&4: '[Critique by Design](https://jfickel088.github.io/jo-fickel-portfolio/critique-by-design)'
+For this assignment, I redesigned an existing data visualization from the MakeoverMonday project, utilizing feedback from my classmates and tips from Tableau community blog posts to create a hex tile map showing the locations of data centers in the continental United States.
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
