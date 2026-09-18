@@ -20,7 +20,7 @@ This tool can be useful, depending on who is using it. For policymakers who may 
 
 Based on that idea, I decided to narrow the dataset to just include proposed data centers in different states in order to illustrate where data center growth is concentrated in the United States. I wanted to keep the geographic visualization aspect, but I wanted to simplify the map down into its most essential components so it would be easier on the eye. After some research, I settled on creating a tile map in Tableau.
 
-![Initial Tile Map Sketch](IMG_0083.png)
+![Initial Tile Map Sketch](IMG_0083.PNG)
 
 ## Step four: Test the solution
 
