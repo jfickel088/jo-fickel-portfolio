@@ -31,10 +31,12 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 For this assignment, I redesigned an existing data visualization from the MakeoverMonday project, utilizing feedback from my classmates and tips from Tableau community blog posts to create a hex tile map showing the locations of data centers in the continental United States.
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
+Check-out my final project for Telling Stories with Data where I explore the relationship between urban heat and social vulnerability in my hometown of San Antonio, TX. The links to its various components can be found below!
+'[Part I](https://jfickel088.github.io/jo-fickel-portfolio/final-project-part-one)'
+
 [Part II](final-project-part-two)
-Part III(final-project-part-three)
+
+[Part III](final-project-part-three)
 
 ---
 ## Other stuff you can do (you can remove this section - it's just for your reference.)
