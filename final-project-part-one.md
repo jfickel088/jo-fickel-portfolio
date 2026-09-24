@@ -10,11 +10,13 @@ Urban heat negatively affects everyone; however, it doesn't affect everyone equa
 
 Heat and humidity are constants in the lives of many San Antonians. It's a fact of life, the same as death and taxes. I, along with many of my fellow Texans, know this to be absolutely true. However, it wasn't until I became interested in the impacts of climate change in my community that I started to see heat a bit differently. I learned about the legacy of redlining and similar practices in the United States and how its still impacting poor communities and communities of color (Anderson 2020). I also realized how those patterns were mirrored in my own city. I want to showcase how urban heat is exacerbated by these historical practices, thereby increasing the vulnerability of already vulnerable socioeconomic groups.
 
-## Initial sketches
+## Initial sketch of heat map
 
-
+![Initial SATX Map Sketch](IMG_0087.PNG)
 
 I find that geospatial data visualizations are especially helpful and easy to understand for the average person. Many San Antonians are as familiar with the map of the city and its neighborhoods as we are with the back of our own hand. Each district has its own unique characteristics and history, so I felt that keeping it simple with a heat map would be best for the project. This is, of course, subject to change as the project matures!
+
+Above all, I wanted to ensure clarity and simplicity for the sake of messaging which is why I want to utilize a gradient of contrasting colors to illustrate surface temperature alongside the indicators of disenfranchisement (i.e. outlines of historically poor communities and/or areas with large populations of people of color). 
 
 # The data
 
@@ -25,4 +27,15 @@ I plan to utilize three main data sources for this project. The first is Landsat
 In order to complete this project, I would like to utilize Shorthand and Tableau. I have become more comfortable using the latter for the purposes of this course and would like to improve my skills further. I am, however, not familiar at all with Shorthand and will need to familiarize myself with it. I do think using ArcGIS Story Maps would also be a good option, but I have never used ArcGIS before and some self-teaching would probably be required. Either way, there will be a learning curve that I will have to overcome in some fashion. 
 
 ## References
-_List any references you used here._
+
+Anderson, Meg. 2020. “Racist Housing Practices From The 1930s Linked To Hotter Neighborhoods Today.” Heat and Health in American Cities. NPR, January 14. '(https://www.npr.org/2020/01/14/795961381/racist-housing-practices-from-the-1930s-linked-to-hotter-neighborhoods-today)'.
+
+Centers for Disease Control and Prevention/ Agency for Toxic Substances and Disease Registry/ Geospatial Research, Analysis, and Services Program. CDC/ATSDR Social Vulnerability Index 2022 Database Texas. '(https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html)'.
+
+Earth Resources Observation and Science (EROS) Center. (2021). Landsat 4-9 U.S. Analysis Ready Data, Collection 2 TM C2 L2. U.S. Geological Survey. '(https://doi.org/10.5066/P960F8OC)'.
+
+Hashemi, Farzad, and Mahsa Adib. 2024. “Examining Thermal Inequities: Land Surface Temperature, Social Vulnerability, and Historical Redlining in San Antonio, TX.” Urban Climate 55 (May): 15. '(https://doi.org/10.1016/j.uclim.2024.101960)'.
+
+US EPA, OAR. 2014. “What Are Heat Islands?” Overviews and Factsheets. June 17. '(https://www.epa.gov/heatislands/what-are-heat-islands)'.
+
+WHO. 2026. “Heat and Health.” World Health Organization, July 31. '(https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health)'.
