@@ -11,14 +11,14 @@ Urban heat negatively affects everyone; however, it doesn't affect everyone equa
 Heat and humidity are constants in the lives of many San Antonians. It's a fact of life, the same as death and taxes. I, along with many of my fellow Texans, know this to be absolutely true. However, it wasn't until I became interested in the impacts of climate change in my community that I started to see heat a bit differently. I learned about the legacy of redlining and similar practices in the United States and how its still impacting poor communities and communities of color (Anderson 2020). I also realized how those patterns were mirrored in my own city. I want to showcase how urban heat is exacerbated by these historical practices, thereby increasing the vulnerability of already vulnerable socioeconomic groups.
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+
+
+I find that geospatial data visualizations are especially helpful and easy to understand for the average person. Many San Antonians are as familiar with the map of the city and its neighborhoods as we are with the back of our own hand. Each district has its own unique characteristics and history, so I felt that keeping it simple with a heat map would be best for the project. This is, of course, subject to change as the project matures!
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-I plan to utilize three main data sources for this project. The first is Landsat Data from the U.S. Geological Survey in order to capture current surface temperature in different neighborhoods within San Antonio. The data is publicly available via '[EarthExplorer] (https://earthexplorer.usgs.gov/)'. I also plan to utilize data from the CDC's '[Social Vulnerability Index (SVI)] (https://www.atsdr.cdc.gov/place-health/php/svi/index.html)' as it contains information on social vulnerability markers broken down by county and ZIP code. I can use these data sets to compare general vulnerability levels in San Antonio to those within specific ZIP codes throughout the city.
+I plan to utilize three main data sources for this project. The first is Landsat Data from the U.S. Geological Survey in order to capture current surface temperature in different neighborhoods within San Antonio. The data is publicly available via '[EarthExplorer](https://earthexplorer.usgs.gov/)', but it is tricky to download without crashing my laptop. I also plan to utilize data from the CDC's '[Social Vulnerability Index (SVI)](https://www.atsdr.cdc.gov/place-health/php/svi/index.html)' as it contains information on social vulnerability markers broken down by '[county](TEXAS_COUNTY.csv.xlsx)' and '[ZIP code](TEXAS_ZCTA.csv)'. I can use these data sets to compare general vulnerability levels in San Antonio to those within specific ZIP codes throughout the city.
 
 # Method and medium
 
