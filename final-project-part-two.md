@@ -1,30 +1,25 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-Text here!
+<script src="https://carnegiemellon.shorthandstories.com/urban-heat-islands-and-the-legacy-of-redlining-in-san-antonio/embed.js"></script>
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+My target audience for this project is policy makers in San Antonio. My primary goal is to showcase the ways in which heat is a real and persistent problem for many individuals in South-Central Texas and will only continue to worsen as time goes on due to climate change and the urban heat island effect. 
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
 
-Text here!
+My goals with the peer interviews were mainly concerned with subject matter familiarity, the clarity of the messaging, and the overall flow of the medium. 
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
-
-
-Text here!
+| Ascertain subject matter knowledge | Did you have any familiarity with the subject matter prior to reviewing the presentation? Do you feel like you know more about urban heat now than before? |
+| Message efficacy | Based on the presentation, would you say that my audience and narrative are clear? Do my visualizations aid in telling the story? Should I add any additional visualizations? |
+| Understand how to improve the flow of the story and/or presentation | Did the flow of the presentation make sense? Did any questions arise about the subject matter? Do you feel like anything was missing or could have been explored further? Were the visual elements readable? |
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
