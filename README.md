@@ -32,9 +32,10 @@ For this assignment, I redesigned an existing data visualization from the Makeov
 
 ## Final project
 Check-out my final project for Telling Stories with Data where I explore the relationship between urban heat and social vulnerability in my hometown of San Antonio, TX. The links to its various components can be found below!
-'[Part I](https://jfickel088.github.io/jo-fickel-portfolio/final-project-part-one)'
 
-[Part II](final-project-part-two)
+[Part I](https://jfickel088.github.io/jo-fickel-portfolio/final-project-part-one)
+
+[Part II](https://jfickel088.github.io/jo-fickel-portfolio/final-project-part-two)
 
 [Part III](final-project-part-three)
 
