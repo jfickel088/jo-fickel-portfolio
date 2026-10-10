@@ -1,36 +1,25 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://jfickel088.github.io/jo-fickel-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](https://jfickel088.github.io/jo-fickel-portfolio/critique-by-design) | [final project I](https://jfickel088.github.io/jo-fickel-portfolio/final-project-part-one) | [final project II]([final-project-part-two)](https://jfickel088.github.io/jo-fickel-portfolio/final-project-part-two) | [final project III](https://jfickel088.github.io/jo-fickel-portfolio/final-project-part-three) |
 
-# The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
-
-Text here!
+# The final data story: Urban Heat and the Legacy of Redlining in San Antonio, TX
+<script src="https://carnegiemellon.shorthandstories.com/urban-heat-islands-and-the-legacy-of-redlining-in-san-antonio/embed.js"></script>
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
-Text here!
+My biggest change was in the amount of text in the final version. Owing to my love of words, I tend to more verbose while speaking and writing, and this was no different. I realized this the most as I was cutting down my final Shorthand draft and writing out my presentation script. Since I try to make sure that everyone in my audience is on the same page in terms of information, I lean towards overexplaining in my academic and professional projects. I'm also very passionate about this subject matter; I'm originally from San Antonio, so there's a personal attachment. However, I learned the importance of curtailing the instinct to belabor the point.
+
+In a similar vein, I added more simple visualizations to better illustrate my narrative. People rarely remember the finer details of a speech; instead, they focus on punchier "soundbites" and impactful images. I think the addition of San Antonio's 2027 Budget was particularly useful when briefly going over the city's fiscal priorities. When making it, I was surprised to see how much money was being funneled to update our airport (over one billion dollars!) compared to other departments and projects. It goes to show the power of the visualization: something I knew to be true was solidified via a different and more direct medium.
+
+The final change was the incorporation of headers in the presentation. It was the most helpful during my in-class presentation when I had to squeeze all my content into a short speech. I found it to streamline the scrolling process and also gave my presentation a more professional finish.
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-Text here!
+I always knew I wanted my audience to be decision makers in San Antonio, and that didn't change much throughout the process. The interviews (see: [Part II](https://jfickel088.github.io/jo-fickel-portfolio/final-project-part-two) were helpful in terms of making my ideas more legible to a diverse audience. Each interview honed in on the importance of including more visualizations to clarify my point which I was able to incorporate into my final product. Because I've interacted with most of the city officials that make up my audience through past campaign and volunteering efforts, I had a better idea of what I should and shouldn't include. For example, I wanted to present a more in-depth overview of urban heat islands (what they are, what causes them, and who they impact) whereas I didn't include a specific definition for redlining in the actual text. This is because most if not all the people in power in the city have lived there their whole lives and are deeply aware of its shortcomings. I presented the information with those details in mind.
 
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
-
-## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
-
-## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
-
-Text here!
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
-Text here!
+I approached this project with a lot of love for San Antonio. Despite my many critiques of it, the city and its people very dear to me which is why I want to see it improve. That is one of the primary reasons for the inclusion of the budgeting priorities. While my project is a more surface-level examination of the impacts of extreme heat, I would hope that if any policy maker saw it, they would take my recommendations seriously.
 
+If I had to do it all again, I would definitely dig more into potential solutions to urban heat. As I worked on the project, I found more and more data sets that would've been relevant in the narrative and recommendation building process. Unfortunately, I wasn't able to include them for the sake of time. The most interesting one I found was a [Tree Equity Map from American Forests](https://www.treeequityscore.org/map#10/29.4811/-98.536) which shows the amount of tree canopies in different census tracts. Tree cover provides a variety of positive benefits for a community not the least of which is their ability to reduce urban heat at the neighborhood level. The equity map for San Antonio aligns nicely with the redlining map and the Social Vulnerability Index. This highlights the importance of tree coverage (and shade structures more generally) in reducing extreme heat locally while increasing climate resilience.
 
+Urban heat is a topic that will only become more relevant as the effects of climate change become more apparent across the world. I was excited to delve deeper into it and its relationship to historical discriminatory practices. Frontline communities rely on research like this to receive funding, organize community efforts, and disseminate information effectively. I hope that I have more opportunities to investigate this issue further, especially as the climate situation evolves.
